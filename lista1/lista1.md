@@ -1,9 +1,8 @@
 Lista 1 - Ad-hoc
 
 - [x] A - [Weird Algorithm](https://vjudge.net/problem/CSES-1068)
-
-- [ ] B - [K-th Largest Value](https://vjudge.net/problem/CodeForces-1491A)
-- [ ] C - [Game With Sticks](https://vjudge.net/problem/CodeForces-451A)
+- [x] B - [K-th Largest Value](https://vjudge.net/problem/CodeForces-1491A)
+- [x] C - [Game With Sticks](https://vjudge.net/problem/CodeForces-451A)
 - [ ] D - [Primes](https://vjudge.net/problem/Gym-102267B)
 - [ ] E - [Base 2](https://vjudge.net/problem/AtCoder-abc306_b)
 - [ ] F - [Palindromic Numbers](https://vjudge.net/problem/AtCoder-abc090_b)
