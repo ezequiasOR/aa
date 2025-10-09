@@ -4,7 +4,7 @@ Lista 1 - Ad-hoc
 - [x] B - [K-th Largest Value](https://vjudge.net/problem/CodeForces-1491A)
 - [x] C - [Game With Sticks](https://vjudge.net/problem/CodeForces-451A)
 - [x] D - [Primes](https://vjudge.net/problem/Gym-102267B)
-- [ ] E - [Base 2](https://vjudge.net/problem/AtCoder-abc306_b)
+- [x] E - [Base 2](https://vjudge.net/problem/AtCoder-abc306_b)
 - [ ] F - [Palindromic Numbers](https://vjudge.net/problem/AtCoder-abc090_b)
 - [ ] G - [Count ABC Again](https://vjudge.net/problem/AtCoder-abc372_c)
 - [ ] H - [Make Them Narrow](https://vjudge.net/problem/AtCoder-abc361_c)
