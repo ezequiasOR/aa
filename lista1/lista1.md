@@ -6,5 +6,5 @@ Lista 1 - Ad-hoc
 - [x] D - [Primes](https://vjudge.net/problem/Gym-102267B)
 - [x] E - [Base 2](https://vjudge.net/problem/AtCoder-abc306_b)
 - [x] F - [Palindromic Numbers](https://vjudge.net/problem/AtCoder-abc090_b)
-- [ ] G - [Count ABC Again](https://vjudge.net/problem/AtCoder-abc372_c)
+- [x] G - [Count ABC Again](https://vjudge.net/problem/AtCoder-abc372_c)
 - [ ] H - [Make Them Narrow](https://vjudge.net/problem/AtCoder-abc361_c)
