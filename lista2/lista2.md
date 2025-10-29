@@ -1,6 +1,6 @@
 Lista 2 - Técnicas de algoritmos
 
-- [ ] A - [Static Range Sum Queries](https://vjudge.net/problem/CSES-1646)
+- [x] A - [Static Range Sum Queries](https://vjudge.net/problem/CSES-1646)
 - [ ] B - [Maximum Subarray Sum](https://vjudge.net/problem/CSES-1643)
 - [ ] C - [Number Game](https://vjudge.net/problem/CodeForces-1749C)
 - [ ] D - [Pair of Topics](https://vjudge.net/problem/CodeForces-1324D)
